@@ -1,13 +1,12 @@
-package com.bitsnbytes.productlist;
+package com.bitsnbytes.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductlistApplication {
+public class ProductApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductlistApplication.class, args);
+		SpringApplication.run(ProductApplication.class, args);
 	}
-
 }
